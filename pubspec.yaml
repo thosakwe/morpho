@@ -1,0 +1,14 @@
+name: morpho
+description: Dedicated tooling for building with Flutter on the desktop.
+environment:
+  sdk: ">=2.0.0-dev <3.0.0"
+dependencies:
+  args: ^1.0.0
+  file: ^5.0.0
+  io: ^0.3.2
+  path: ^1.0.0
+  platform: ^2.0.0
+  process: ^3.0.0
+  prompts: ^1.0.0
+executables:
+  morpho: morpho
